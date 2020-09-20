@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "com.kumar.scan.BarcodeScanner.BarcodeScanner",
+        "description": "Barcode Scanner",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#BarcodeScanner-Display",
+        "navigationComponentName": "com.kumar.scan.BarcodeScanner",
+        "intentSemanticObject": "BarcodeScanner",
+        "intentAction": "Display",
+        "html5ApplicationName": "barcodescanner",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "dbf76efe-9430-4ba0-8d90-b981fcecba3b-1532426154552"
+        ],
+        "contentPackages": [
+            "0c38a2ad-dbb5-4af1-a4fb-574d5b3c6d1a-1532425039847"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Bar/QR code scanner",
+        "subtitle": "Scan Any type of code",
+        "searchKeywords": "Bar/QR code scanner,Scan Any type of code",
+        "displayIconUrl": "sap-icon://bar-code",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
